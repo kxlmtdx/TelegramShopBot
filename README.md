@@ -1,3 +1,3 @@
 ## Telegram Bot Link
 
-t.me/MicroWahtControllersbot
+https://t.me/MicroWahtControllersbot
